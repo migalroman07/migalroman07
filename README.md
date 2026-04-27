@@ -1,7 +1,7 @@
 # Hi there, I'm Roman! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=AI+Systems+Engineering+Student;Rust+%26+C+Enthusiast;Applied+AI+%26+Automation;Building+Fast+CLI+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=AI+Systems+Engineering+Student;Rust+%26+Python+Enthusiast;Applied+AI+%26+Automation;Building+Fast+CLI+Tools" alt="Typing SVG" />
 </div>
 
 I am a 1st-year **AI Systems and Technologies** student at Plekhanov Russian University of Economics. I bridge the gap between **Applied AI** (LLMs, AI media workflows) and **Low-Level Systems Programming** (Rust, C, C++). 
